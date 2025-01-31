@@ -1,0 +1,13 @@
+.mainInfoData{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+}
+.imgData{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
